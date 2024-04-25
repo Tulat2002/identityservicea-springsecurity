@@ -1,2 +1,4 @@
-package com.devanktu.identityservice.configuration;public class AppConfig {
+package com.devanktu.identityservice.configuration;
+
+public class AppConfig {
 }
